@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushrajyadav" alt="piyushrajyadav" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [piyushyadav.me](www.piyushyadav.me/)
+- 👨‍💻 All of my projects are available at [piyushyadav.me/](www.piyushyadav.me/)
 
 - 💬 Ask me about **React Js, NextJs, Node Js, Gen Ai, ML, DevOps, Web3**
 
