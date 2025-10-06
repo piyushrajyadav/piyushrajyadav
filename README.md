@@ -11,7 +11,7 @@
 ║        ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝             ║
 ║                                                                  ║
 ║                                                                  ║
-║          Full Stack Architect | AI Innovator | Cloud Native      ║
+║      Full Stack Architect | AI Innovator | Cloud Native          ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 
