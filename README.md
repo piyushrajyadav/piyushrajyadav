@@ -218,6 +218,11 @@ const piyush: Developer = {
 ## 📝 Latest from My Blog
 
 </div>
+## 📝 Latest from My Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!-- Medium Blog Posts -->
 ### 📰 Recent Articles
