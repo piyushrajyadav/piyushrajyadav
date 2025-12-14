@@ -219,14 +219,19 @@ const piyush: Developer = {
 
 </div>
 
+<!-- Medium Blog Posts -->
+### 📰 Recent Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be auto-updated by GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 
-<!-- FIXED: Using the most reliable Medium widget with better caching -->
-[![Piyush Medium](https://github-readme-medium.vercel.app/?username=piyushrajyadav28&limit=4&bg=0d1117&text=ffffff)](https://medium.com/@piyushrajyadav28)
-
-<br>
-
-**💡 Note:** *Medium RSS feeds have 1-3 hour cache delays. If your latest article isn't showing, it will appear after the next refresh.*
+**📌 To enable auto-updating Medium articles:**
+1. Create `.github/workflows/blog-post-workflow.yml` in your repository
+2. Use the GitHub Action: [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+3. Your RSS feed: `https://medium.com/feed/@piyushrajyadav28`
 
 <br>
 
@@ -264,11 +269,19 @@ const piyush: Developer = {
 
 <div align="center">
 
+## 🏆 GitHub Trophies
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushrajyadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-## 🎯 Achievement Badges
+</div>
 
-[![@piyushrajyadav's Holopin board](https://holopin.io/api/user/board?user=piyushrajyadav)](https://holopin.io/@piyushrajyadav)
+---
+
+<div align="center">
+
+## 🏆 Holopin Badges
+
+[![An image of @piyushrajyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushrajyadav)](https://holopin.io/@piyushrajyadav)
 
 </div>
 
