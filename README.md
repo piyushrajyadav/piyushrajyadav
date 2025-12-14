@@ -221,9 +221,14 @@ const piyush: Developer = {
 
 <div align="center">
 
-[![Medium](https://github-readme-medium.vercel.app/?username=piyushrajyadav28&limit=6&theme=dark)](https://medium.com/@piyushrajyadav28)
+<!-- FIXED: Using alternative Medium widget that works reliably -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/0" alt="Recent Article 0"></a>
 
-<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/1" alt="Recent Article 1"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/2" alt="Recent Article 2"></a>
+
+<br><br>
 
 <a href="https://medium.com/@piyushrajyadav28">
   <img src="https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -245,11 +250,45 @@ const piyush: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushrajyadav&theme=tokyonight&hide_border=true" />
+  
+  <!-- FIXED: Updated streak stats URL - now using streak-stats.demolab.com -->
+  <img src="https://streak-stats.demolab.com?user=piyushrajyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushrajyadav&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Holopin Badges
+
+[![An image of @piyushrajyadav's Holopin badges](https://holopin.me/piyushrajyadav)](https://holopin.io/@piyushrajyadav)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushrajyadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </div>
 
 ---
