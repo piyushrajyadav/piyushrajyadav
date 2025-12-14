@@ -222,16 +222,10 @@ const piyush: Developer = {
 <!-- Medium Blog Posts -->
 ### 📰 Recent Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
-**📌 To enable auto-updating Medium articles:**
-1. Create `.github/workflows/blog-post-workflow.yml` in your repository
-2. Use the GitHub Action: [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-3. Your RSS feed: `https://medium.com/feed/@piyushrajyadav28`
+
 
 <br>
 
