@@ -221,14 +221,14 @@ const piyush: Developer = {
 
 <div align="center">
 
-<!-- FIXED: Using alternative Medium widget that works reliably -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/0" alt="Recent Article 0"></a>
+<!-- FIXED: Using the most reliable Medium widget with better caching -->
+[![Piyush Medium](https://github-readme-medium.vercel.app/?username=piyushrajyadav28&limit=4&bg=0d1117&text=ffffff)](https://medium.com/@piyushrajyadav28)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/1" alt="Recent Article 1"></a>
+<br>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushrajyadav28/2" alt="Recent Article 2"></a>
+**💡 Note:** *Medium RSS feeds have 1-3 hour cache delays. If your latest article isn't showing, it will appear after the next refresh.*
 
-<br><br>
+<br>
 
 <a href="https://medium.com/@piyushrajyadav28">
   <img src="https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -251,7 +251,7 @@ const piyush: Developer = {
 
 <div align="center">
   
-  <!-- FIXED: Updated streak stats URL - now using streak-stats.demolab.com -->
+  <!-- FIXED: Updated streak stats URL -->
   <img src="https://streak-stats.demolab.com?user=piyushrajyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
@@ -264,9 +264,11 @@ const piyush: Developer = {
 
 <div align="center">
 
-## 🎯 Holopin Badges
 
-[![An image of @piyushrajyadav's Holopin badges](https://holopin.me/piyushrajyadav)](https://holopin.io/@piyushrajyadav)
+
+## 🎯 Achievement Badges
+
+[![@piyushrajyadav's Holopin board](https://holopin.io/api/user/board?user=piyushrajyadav)](https://holopin.io/@piyushrajyadav)
 
 </div>
 
