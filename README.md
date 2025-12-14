@@ -274,27 +274,6 @@ const piyush: Developer = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushrajyadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect & Collaborate
 
 </div>
