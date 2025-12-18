@@ -253,10 +253,7 @@ const piyush: Developer = {
 </div>
 
 <div align="center">
-  
-  <!-- FIXED: Updated streak stats URL -->
   <img src="https://streak-stats.demolab.com?user=piyushrajyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
 </div>
 
 <div align="center">
@@ -267,9 +264,12 @@ const piyush: Developer = {
 
 <div align="center">
 
+<a href="https://medium.com/@piyushrajyadav28">
+  <img src="https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
+</div>
 
-<div align="center">
 
 ## 🏆 Holopin Badges
 
