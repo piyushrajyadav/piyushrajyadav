@@ -79,6 +79,7 @@ const piyush: Developer = {
 ## 💼 Professional Experience
 
 </div>
+### 🚀  Ai Engineer Intern @ **Vaiu AI**
 
 ### 🚀 Software Development Intern @ **Alphaxine**
 
