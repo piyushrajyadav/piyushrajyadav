@@ -18,8 +18,8 @@
   ```
 
 <p>
-  <a href="https://piyushyadav.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-piyushyadav.me-00D9FF?style=for-the-badge&logoColor=white" />
+  <a href="https://piyushyadav.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-piyushyadav.xyz-00D9FF?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/piyushrajyadav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
