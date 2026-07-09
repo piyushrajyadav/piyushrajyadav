@@ -2,6 +2,12 @@
 
 <img src="assets/profile-card.svg" alt="Piyush Yadav - terminal profile card" width="100%" />
 
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+with+React%2C+Node.js+%26+Spring+Boot;Exploring+Agentic+%26+Voice+AI;Always+shipping+something+new" alt="Typing SVG" />
+</a>
+
 <p>
   <a href="https://piyushyadav.xyz" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-piyushyadav.xyz-00D9FF?style=for-the-badge&logoColor=white" />
@@ -176,6 +182,10 @@ I like working across the whole stack — solid backend and infra fundamentals, 
 
 ## 🏆 Coding Journey
 
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushrajyadav&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
