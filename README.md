@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-card.svg" alt="Piyush Yadav - terminal profile card" width="100%" />
+<img src="profile-card.svg" alt="Piyush Yadav - terminal profile card" width="100%" />
 
 <br/>
 
@@ -157,6 +157,10 @@ I like working across the whole stack — solid backend and infra fundamentals, 
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
