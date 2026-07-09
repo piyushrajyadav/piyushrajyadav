@@ -1,21 +1,6 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║        ██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗             ║
-║        ██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║             ║
-║        ██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║             ║
-║        ██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║             ║
-║        ██║     ██║   ██║   ╚██████╔╝███████║██║  ██║             ║
-║        ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝             ║
-║                                                                  ║
-║                                                                  ║
-║      Full Stack Architect | AI Innovator | Cloud Native          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-
-  ```
+<img src="assets/profile-card.svg" alt="Piyush Yadav - terminal profile card" width="100%" />
 
 <p>
   <a href="https://piyushyadav.xyz" target="_blank">
@@ -50,25 +35,25 @@ interface Developer {
   role: string;
   location: string;
   passions: string[];
-  currentlyWorking: string;
+  focusAreas: string[];
   learning: string[];
   askMeAbout: string[];
 }
 
 const piyush: Developer = {
   name: "Piyush Yadav",
-  role: "Full Stack Web Developer",
-  location: "India 🇮🇳",
-  passions: ["Building Scalable Systems", "AI/ML Innovation", "Open Source"],
-  currentlyWorking: "ERP Systems & Cloud Architecture",
+  role: "Full Stack Developer & AI Engineer",
+  location: "Kolkata, India 🇮🇳",
+  passions: ["Agentic AI Systems", "Voice AI", "Scalable Backend Architecture"],
+  focusAreas: ["Multi-Agent Orchestration", "Voice Agents", "RAG Pipelines", "Cloud-Native Deployment"],
   learning: ["Generative AI", "Kubernetes", "Web3 Technologies"],
-  askMeAbout: ["React", "Next.js", "Node.js", "Gen AI", "ML", "DevOps", "Web3"]
+  askMeAbout: ["React", "Next.js", "Node.js", "LangGraph", "CrewAI", "LiveKit", "DevOps"]
 };
 ```
 
 <div align="center">
 
-🔗 **[Explore My Portfolio](https://piyushyadav.me)** • 📄 **[Download Resume](https://docs.google.com/document/d/16849msQFX6Z0Nhl62HmqUkd-sE8DhxNV/edit?usp=sharing&ouid=105421290837773712140&rtpof=true&sd=true)**
+🔗 **[Explore My Portfolio](https://piyushyadav.xyz)** • 📄 **[Download Resume](https://docs.google.com/document/d/16849msQFX6Z0Nhl62HmqUkd-sE8DhxNV/edit?usp=sharing&ouid=105421290837773712140&rtpof=true&sd=true)**
 
 </div>
 
@@ -76,42 +61,35 @@ const piyush: Developer = {
 
 <div align="center">
 
-## 💼 Professional Experience
+## 💻 What I Build
 
 </div>
-### 🚀  Ai Engineer Intern @ **Vaiu AI**
-
-### 🚀 Software Development Intern @ **Alphaxine**
 
 <table>
 <tr>
 <td width="50%">
 
-**🏗️ Enterprise Architecture**
-- Built comprehensive ERP system with **Spring Boot**, **React** & **MySQL**
-- Developed full-stack HR & CRM modules with advanced role-based access control
-- Designed and implemented scalable RESTful APIs for seamless data flow
-- Created intuitive UI/UX with **Next.js** and **Tailwind CSS**
+**🏗️ Full-Stack Software**
+- End-to-end web apps with **React / Next.js** on the frontend and **Node.js, Express, FastAPI, Spring Boot** on the backend
+- RESTful API design, database modeling (**MySQL, PostgreSQL, MongoDB, Redis**), and clean auth/validation patterns
+- Containerized, cloud-deployed systems on **Docker, Kubernetes, GCP, AWS**
 
 </td>
 <td width="50%">
 
-**🎯 Key Achievements**
-- 🌐 Led company website development with modern tech stack
-- 🤖 Integrated **Agentic AI** for intelligent automation workflows
-- 📊 Managed **250+ API endpoints** across multiple microservices
-- ⚡ Implemented automated workflow systems reducing manual tasks by 60%
+**🤖 Agentic & Voice AI**
+- Multi-agent orchestration with **CrewAI** and **LangGraph** — pipelines that plan, reason, and produce real outputs
+- Real-time voice agents built on **LiveKit**, with conversation state managed as LangGraph state machines
+- Retrieval-augmented generation (**RAG**) and LLM integration into production systems
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**🚀 Innovation Highlights**: 
-- **AI-Powered Automation**: Built agentic AI systems for intelligent task automation and decision-making
-- **CRM Intelligence**: Integrated customer relationship tracking, lead management, and AI-driven sales pipeline automation
-- **Master Data Management**: Designed comprehensive configuration system for employee management with automated workflows
-- **Microservices Architecture**: Orchestrated 250+ APIs ensuring high availability and seamless integration
+**⚙️ Toolkit**: `React` `Next.js` `Node.js` `FastAPI` `Spring Boot` `Docker` `Kubernetes` — plus `LangChain` `LangGraph` `CrewAI` `RAG` `LiveKit` `LLM Integration`
+
+I like working across the whole stack — solid backend and infra fundamentals, with a growing focus on agentic and voice-driven AI systems layered on top.
 
 </td>
 </tr>
@@ -119,7 +97,7 @@ const piyush: Developer = {
 
 <div align="center">
 
-*Building enterprise solutions that scale* 🚀
+*Full-stack fundamentals, agentic ambitions* 🚀
 
 </div>
 
@@ -151,9 +129,8 @@ const piyush: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </details>
@@ -165,18 +142,18 @@ const piyush: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>🤖 AI / Agentic Frameworks</b></summary>
 <br>
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
 
@@ -188,7 +165,8 @@ const piyush: Developer = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </details>
 
@@ -223,16 +201,7 @@ const piyush: Developer = {
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-<!-- Medium Blog Posts -->
-### 📰 Recent Articles
-
-
 <div align="center">
-
-
-
-<br>
 
 <a href="https://medium.com/@piyushrajyadav28">
   <img src="https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -264,13 +233,6 @@ const piyush: Developer = {
 ---
 
 <div align="center">
-
-<a href="https://medium.com/@piyushrajyadav28">
-  <img src="https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</div>
-
 
 ## 🏆 Holopin Badges
 
