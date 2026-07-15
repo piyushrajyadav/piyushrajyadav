@@ -59,7 +59,7 @@ const piyush: Developer = {
 
 <div align="center">
 
-🔗 **[Explore My Portfolio](https://piyushyadav.xyz)** • 📄 **[Download Resume](https://docs.google.com/document/d/16849msQFX6Z0Nhl62HmqUkd-sE8DhxNV/edit?usp=sharing&ouid=105421290837773712140&rtpof=true&sd=true)**
+🔗 **[Explore My Portfolio](https://piyushyadav.xyz)** • 📄 **[Download Resume](https://drive.google.com/file/d/1Rs9gpsyvPMtnj7dD5RuYLz-JQdlHd37d/view?usp=drive_link)**
 
 </div>
 
