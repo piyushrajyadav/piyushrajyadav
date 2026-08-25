@@ -194,19 +194,6 @@ I like working across the whole stack — solid backend and infra fundamentals, 
 
 <div align="center">
 
-### 📊 LeetCode Statistics
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/piyushyadavraj?theme=dark&font=Karma&ext=heatmap)
-
-<a href="https://leetcode.com/piyushyadavraj/">
-  <img src="https://img.shields.io/badge/Solve_More_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ## 📝 Latest from My Blog
 
